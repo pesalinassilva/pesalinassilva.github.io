@@ -1,0 +1,32 @@
+nav, footer{
+    background-color: rgb(55, 126, 126);
+}
+
+.datos-personales ul{
+    font-size: 500;
+}
+
+.grade-description{
+    background-image: url("../imgs/fondo-cv.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: left;
+}
+
+.grade-description h1{
+    font-family: dosis;
+    font-weight: 500;
+}
+
+.grade-description p{
+    font-weight: 300;
+}
+
+section, footer{
+    font-family: dosis;
+}
+
+.portafolio{
+    font-family: dosis;
+}
+
